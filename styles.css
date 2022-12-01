@@ -1,3 +1,8 @@
 body {
     font-family: Jost, sans-serif;
+    font-size: small;
+}
+
+table, td, tr {
+    border: solid rgba(255, 68, 0, 0.671);
 }
